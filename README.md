@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-
-Here are some ideas to get you started:
+## About me
 
 - 🔭 I’m currently working on PHP, Solidity, React, Javascript, Truffle
 - 🌱 I’m currently learning Blockchain technologies
@@ -12,5 +11,6 @@ Here are some ideas to get you started:
 -
 - 😄 Pronouns: ...
 
--  ⚡ Fun fact: ...
+-  ⚡ Fun fact: I'm fond of travelling and surfing tropical beaches. 
+I went to Bali, Sri Lanka, Vietnam, Peru, Cuba, USA, Costa Rica, Nicaragua, and so on ... 
 
