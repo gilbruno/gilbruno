@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/MFabj1E9mgUsqwVWHu/giphy-downsized-large.gif" width="100"/>
+</div>
+
 ### Hi there 👋
 
 ## About me
