@@ -8,9 +8,9 @@
 
 ## About me
 
-- 🔭 I’m currently working on PHP, Solidity, React, Javascript, Truffle
+- 🔭 I’m currently working on PHP, Solidity, React, Javascript, Truffle, Hardhat
 - 🌱 I’m currently learning Blockchain technologies
-- 👯 I’m looking to collaborate on beautifule blockchain/dApps/Web3 projects
+- 👯 I’m looking to collaborate on beautiful blockchain/dApps/Web3 projects
 - 🤔 I’m looking for a beautiful blockchain project to work on
 - 💬 Ask me about anything
 - 📫 How to reach me: See my Badge above
