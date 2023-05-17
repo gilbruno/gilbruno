@@ -17,7 +17,7 @@
 ## About me
 
 - 🔭 I’m currently working for yesorno.bet. I'm the backend dev. Our technical stack : Nest.JS, TypeScript, Solidity, Flutter, Firebase, MemSQL, GitLab 
-- 🌱 I’m currently learning Blockchain technologies
+- 🌱 I love Blockchain, Crypto, and beautifule blockchain use cases 
 - 👯 I’m looking to collaborate on beautiful blockchain/dApps/Web3 projects
 - 🤔 I’m looking for a beautiful blockchain project to work on
 - 💬 Ask me about anything
