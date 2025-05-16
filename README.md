@@ -16,7 +16,7 @@
 
 ## About me
 
-- 🔭 I’m currently a freelance. I'm currently working on web3 projects like [InRealArt](https://inrealart.com) (a luxury art web3 platform), [Retrovrs](https://company.retrovrs.com) (luxury product with equities & royaltiesonchain), [Bitarena](https://bitarena.app) and [WokenExchange](https://woken.exchange) (a DEX with custom trading hours). My favorite technical stack : NextJS, Wagmi, Solidity, Nest.JS, NodeJS, TypeScript, AWS, MySQL, GitLab 
+- 🔭 I’m currently a freelance. I'm currently working on web3 projects like [InRealArt](https://inrealart.com) (a luxury art web3 platform), [Retrovrs](https://company.retrovrs.com) (luxury product with equities & royaltiesonchain), [Bitarena](https://bitarena.app) and [WokenExchange](https://woken.exchange) (a DEX with custom trading hours). My favorite technical stack : NextJS, TypeScript, Wagmi, Viem, Solidity, Foundry, NestJS, NodeJS, AWS, Firebase, PostgreSQL, MySQL
 - 🌱 I love Blockchain, Crypto, and beautiful blockchain use cases 
 - 👯 I’m looking to collaborate on beautiful blockchain/dApps/Web3 projects
 - 🤔 I’m open to work on some beautiful blockchain projects
